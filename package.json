@@ -14,6 +14,7 @@
   "author": "stodoriko",
   "license": "ISC",
   "devDependencies": {
+    "@playwright/test": "^1.28.1",
     "playwright": "^1.28.1"
   }
 }
